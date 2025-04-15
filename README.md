@@ -2,7 +2,7 @@
 
 ### 인프런 동영상 강좌 - 네트워크 탱크 대전 게임
 
-[![](Resources/topImage01.png)](https://inf.run/DbAJS)
+[![](Resources/PhotonPUN_v2.png)](https://inf.run/DbAJS)
 
 - [인프런 강좌 바로가기](https://inf.run/DbAJS)
 
